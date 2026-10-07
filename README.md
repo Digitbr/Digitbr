@@ -4,6 +4,8 @@
 
 Desenvolvo sistemas web para resolver problemas reais do dia a dia: controle de rondas, gestão de frota, medições e relatórios. Atuo também com análise de dados e dashboards. Meu perfil: determinação, foco e conhecimento.
 
+[![Chamar no WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar_agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527993111872?text=Ol%C3%A1%20Diego%2C%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar)
+
 ## Stack
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -40,5 +42,8 @@ Também trabalho com análise e tratamento de dados, Microsoft 365, help desk e 
 
 ## Contato
 
+[![Chamar no WhatsApp](https://img.shields.io/badge/WhatsApp-Chamar_agora-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5527993111872?text=Ol%C3%A1%20Diego%2C%20vi%20seu%20GitHub%20e%20gostaria%20de%20conversar)
+
+- WhatsApp: [(27) 99311-1872](https://wa.me/5527993111872)
 - Portfólio: [portf-lio-diegovenancio-rho.vercel.app](https://portf-lio-diegovenancio-rho.vercel.app/)
 - E-mail: [diegovenancio2005@gmail.com](mailto:diegovenancio2005@gmail.com)
